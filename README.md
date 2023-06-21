@@ -13,6 +13,10 @@ pkg install git
 git clone https://github.com/brownspy1/deface-maker_2.0
 
 
-for any contact....
+for any contact...
 
 https://fb.com/brownspy1
+
+
+credit my teacher: https://github.com/wh1t3-shadow 
+
