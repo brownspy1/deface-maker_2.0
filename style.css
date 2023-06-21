@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Kelly Slab', sans-serif;
+    overflow: hidden;
+}
+
+.tengahken {
+    position: absolute;
+    margin: auto;
+    height: 50%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.usar {
+    color: red;
+    position: absolute;
+    margin: auto;
+    top: 250px;
+    bottom: 0;
+    left: 320px;
+    right: 0;
+}
+
+.usar1 {
+    color: aqua;
+    position: absolute;
+    margin: auto;
+    top: 250px;
+    bottom: 0;
+    left: 200px;
+    right: 0;
+}
+
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
