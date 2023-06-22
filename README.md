@@ -5,6 +5,7 @@ Deface-Maker 2.0 is a tool that allows you to easily create defacement pages for
 ## Installation
 
 To install Deface-Maker 2.0, follow these steps:
+Copy the above command as a whole and paste it into your terminal to execute it.
 
 1. Update and upgrade your system packages: pkg update && pkg upgrade
 
