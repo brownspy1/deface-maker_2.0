@@ -7,21 +7,20 @@ Deface-Maker 2.0 is a tool that allows you to easily create defacement pages for
 To install Deface-Maker 2.0, follow these steps:
 
 
-1. Update and upgrade your system packages: ``` 
-pkg update && pkg upgrade
-```
+1. Update and upgrade your system packages: ``` pkg update && pkg upgrade ```
 
-3. Install the required dependencies from `requirements.txt`: pip install -r requirements.txt
 
-4. Install Python 3: pkg install python3
+3. Install the required dependencies from `requirements.txt`: ` pip install -r requirements.txt `
 
-5. Install Git: pkg install git
+4. Install Python 3:` pkg install python3`
 
-6. Clone the Deface-Maker 2.0 repository: git clone https://github.com/brownspy1/deface-maker_2.0
+5. Install Git:` pkg install git `
 
-7. Navigate to the `deface-maker_2.0` directory: cd deface-maker_2.0
+6. Clone the Deface-Maker 2.0 repository:` git clone https://github.com/brownspy1/deface-maker_2.0`
 
-8. Run the Deface-Maker tool: python3 deface.py
+7. Navigate to the `deface-maker_2.0` directory: `cd deface-maker_2.0`
+
+8. Run the Deface-Maker tool:` python3 deface.py`
 
 ## Contact
 
