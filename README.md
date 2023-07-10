@@ -29,7 +29,7 @@ For any questions or suggestions regarding Deface-Maker 2.0, feel free to reach 
 - Facebook: [brownspy1](https://fb.com/brownspy1)
 
 
-## Sscreenshot
+## Screenshot
 ![image](https://github.com/brownspy1/deface-maker_2.0/assets/89521172/dbb2f66c-e7fe-496a-9b8d-149f51addc25)
 
 ## Credits
