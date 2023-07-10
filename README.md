@@ -28,6 +28,10 @@ For any questions or suggestions regarding Deface-Maker 2.0, feel free to reach 
 
 - Facebook: [brownspy1](https://fb.com/brownspy1)
 
+
+## SS
+![image](https://github.com/brownspy1/deface-maker_2.0/assets/89521172/dbb2f66c-e7fe-496a-9b8d-149f51addc25)
+
 ## Credits
 
 Deface-Maker 2.0 was inspired by and developed with guidance from [wh1t3-shadow](https://github.com/wh1t3-shadow). We appreciate their valuable contributions and expertise.
