@@ -9,18 +9,17 @@ To install Deface-Maker 2.0, follow these steps:
 
 1. Update and upgrade your system packages: ``` pkg update && pkg upgrade ```
 
+2. Install Git:` pkg install git `
 
-3. Install the required dependencies from `requirements.txt`: ` pip install -r requirements.txt `
+3. Install Python 3:` pkg install python3`
 
-4. Install Python 3:` pkg install python3`
+4. Clone the Deface-Maker 2.0 repository:` git clone https://github.com/brownspy1/deface-maker_2.0`
 
-5. Install Git:` pkg install git `
+5. Navigate to the `deface-maker_2.0` directory: `cd deface-maker_2.0`
 
-6. Clone the Deface-Maker 2.0 repository:` git clone https://github.com/brownspy1/deface-maker_2.0`
+6. Install the required dependencies from `requirements.txt`: ` pip install -r requirements.txt `
 
-7. Navigate to the `deface-maker_2.0` directory: `cd deface-maker_2.0`
-
-8. Run the Deface-Maker tool:` python3 deface.py`
+7. Run the Deface-Maker tool:` python3 deface.py`
 
 ## Windows
 
