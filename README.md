@@ -2,7 +2,7 @@
 
 Deface-Maker 2.0 is a tool that allows you to easily create defacement pages for web applications. This tool automates the process of generating customized HTML pages to replace the original content of a website temporarily.
 
-## Installation
+## Installation (Kali and Termux)
 
 To install Deface-Maker 2.0, follow these steps:
 
@@ -21,6 +21,12 @@ To install Deface-Maker 2.0, follow these steps:
 7. Navigate to the `deface-maker_2.0` directory: `cd deface-maker_2.0`
 
 8. Run the Deface-Maker tool:` python3 deface.py`
+
+## Windows
+
+For Windows users, an executable (`.exe`) file is available at [Deface 2.0.exe](https://github.com/brownspy1/deface-maker_2.0/blob/main/Deface%202.0.exe)
+
+
 
 ## Contact
 
